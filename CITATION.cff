@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the toolbox and the relevant methodological publication when using this software."
+title: "Generalized Dynamic Factor Model (GDFM) MATLAB Toolbox"
+type: software
+authors:
+  - family-names: Cho
+    given-names: Young-ho
