@@ -1,6 +1,6 @@
 # Generalized Dynamic Factor Model (GDFM) — MATLAB Toolbox
 
-**Author:** Young-ho Cho
+**Author:** Young-ho Cho, Duehee Lee, and Ross Baldick
 
 A MATLAB implementation of generalized dynamic factor analysis for multivariate time series. The toolbox estimates common and idiosyncratic structure, spectral density matrices, factor coordinates, dynamic filters, and associated loading matrices. Four complementary formulations are provided, with reproducible examples of sensitivity analysis and illustrative scenario generation.
 
